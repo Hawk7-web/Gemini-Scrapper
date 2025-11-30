@@ -6,7 +6,21 @@ A fully automated, headless, stealth-optimized Gemini chatbot powered by Seleniu
 
 HAWK is an advanced automation engine that interacts with Google Gemini’s web interface like a human — but faster, smarter, and fully hands-free.
 It detects your query type, formats comparison prompts automatically, extracts responses with precision, and renders them beautifully inside your terminal.
+Python packages:
 
+Requirements
+
+Install them together:
+
+pip install selenium rich
+
+System Requirements:
+
+Google Chrome installed
+
+ChromeDriver that matches your Chrome version
+
+Python 3.8+ recommended
 Perfect for:
 ⚡ Automation research
 ⚡ LLM behavior analysis
